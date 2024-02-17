@@ -1,0 +1,17 @@
+.img-single-country-flag {
+    margin-top: 20px;
+}
+
+.single-container {
+    width: 70%!important;
+}
+
+.card-text-single {
+    display: flex;
+    justify-content: center;
+}
+
+.li-countries {
+    margin: 0 5px; 
+    list-style: none;
+}
